@@ -1,11 +1,20 @@
 # About me👋
 
+# 前端学习
 
-**Dav010913/Dav010913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+这是我30天学习编程的记录。
 
-Here are some ideas to get you started:
+## 学习进度
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- [x] Day 1-6: HTML/CSS/JavaScript基础
+- [x] Day 7: Git和GitHub
+- [ ] Day 8-10: React入门
+- [ ] Day 11-30: Next.js博客开发
+
+## 目标
+
+30天后完成一个个人博客网站！
+
+
 
 
